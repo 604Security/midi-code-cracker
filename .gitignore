@@ -1,0 +1,19 @@
+# Personal clue content (kept local)
+*.jpg
+*.jpeg
+*.png
+costar-clue-*.md
+
+# Old versions / local backups
+backup/
+mega-code*.py
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs from midi_notes.py --csv
+*.csv
